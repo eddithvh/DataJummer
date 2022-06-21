@@ -1,9 +1,9 @@
-### DataJummer
-# Simple Python Script to stole data from computer and send to discord webhook.
+### 🎯 DataJummer
+# 🧩 Simple Python Script to stole data from computer and send to discord webhook.
 
-FOR EDUCATIONAL PURPOSES ONLY. DON'T USE THEM FOR ILLEGAL ACTIVITIES. YOU ARE THE ONLY RESPONSABLE FOR YOUR ACTIONS! OUR TOOLS ARE OPEN SOURCE WITH NO WARRANTY AND AS ARE.
+🎷 `FOR EDUCATIONAL PURPOSES ONLY. DON'T USE THEM FOR ILLEGAL ACTIVITIES. YOU ARE THE ONLY RESPONSABLE FOR YOUR ACTIONS! OUR TOOLS ARE OPEN SOURCE WITH NO WARRANTY AND AS ARE.`
 
-
+🩸🩸🩸 **READ THIS** 🩸🩸🩸
 > Move files to one folder,
 
 > Run requirements.bat (needed librares for python)
